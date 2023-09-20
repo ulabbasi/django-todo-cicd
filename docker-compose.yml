@@ -1,7 +1,7 @@
 version : "3.3"
 services :
   web :
-     image : umairabbasid/notes-app:latest
+     image : umairabbasid/todo-app:latest
      ports :
          - "8000:8000"
      volumes:
